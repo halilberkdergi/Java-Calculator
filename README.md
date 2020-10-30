@@ -12,3 +12,5 @@
 - İşlemler tam sayı işlemler olmalıdır.
 - Uygulamanın Eclipse üzerinden çalıştırılması yeterlidir.
 
+![PastedGraphic-2](https://user-images.githubusercontent.com/58781721/97702333-dfc16000-1abf-11eb-81a7-2243e8829ce3.png)
+
